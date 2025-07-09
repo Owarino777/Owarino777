@@ -1,8 +1,8 @@
 <!-- =========================== HEADER =========================== -->
 <h1 align="center">Hi there, I'm Owarino 👋 / Salut, moi c'est Owarino 👋</h1>
 <p align="center">
-  <em>Full-stack Tech Lead • Accessibility advocate • CI/CD & AI automation lover</em><br/>
-  <em>Tech Lead Full-stack • Défenseur de l'accessibilité • Passionné CI/CD & automatisation IA</em><br/>
+  <em>Full-stack • Accessibility advocate • CI/CD & AI automation lover</em><br/>
+  <em>Full-stack • Défenseur de l'accessibilité • Passionné CI/CD & automatisation IA</em><br/>
   <code>#Symfony #Flutter #Qt6 #UnrealEngine #AI #DevOps #RGAA</code>
 </p>
 <p align="center">
@@ -18,9 +18,9 @@
 <details open>
 <summary>🇬🇧 <strong>English Version</strong></summary>
 
-- 🏗️ **Senior Software Architect** focused on industrialization, performance & security  
+- 🏗️ **Junior Software Architect** focused on industrialization, performance & security  
 - ♿ **Accessibility Expert**: Automated RGAA/WCAG audits, inclusive design systems  
-- ⚙️ **DevOps Engineer**: GitHub Actions, Docker, Kubernetes, IaC (Ansible, Terraform)  
+- ⚙️ **DevOps**: GitHub Actions, Docker, Kubernetes, IaC (Ansible, Terraform)  
 - 🤖 **Advanced AI**: RAG/CAG, vector databases, automated documentation & testing  
 - 🎮 **3D/Game Development**: Unreal Engine 5, C++ gameplay, automated pipelines  
 - 🌐 **Web/Mobile Development**: Symfony 7, Next.js 15, Flutter 3, Qt6, Tailwind, Spectre.css  
@@ -30,9 +30,9 @@
 <details>
 <summary>🇫🇷 <strong>Version Française</strong></summary>
 
-- 🏗️ **Architecte logiciel senior** orienté industrialisation, performance & sécurité  
+- 🏗️ **Architecte logiciel junior** orienté industrialisation, performance & sécurité  
 - ♿ **Expert Accessibilité** : audits RGAA/WCAG automatisés, design system inclusif  
-- ⚙️ **Ingénieur DevOps** : GitHub Actions, Docker, Kubernetes, IaC (Ansible, Terraform)  
+- ⚙️ **DevOps** : GitHub Actions, Docker, Kubernetes, IaC (Ansible, Terraform)  
 - 🤖 **IA avancée** : RAG/CAG, vector DB, génération de doc & tests automatisés  
 - 🎮 **Développement 3D/Jeux** : Unreal Engine 5, C++ gameplay, pipelines automatisés  
 - 🌐 **Développement Web/Mobile** : Symfony 7, Next.js 15, Flutter 3, Qt6, Tailwind, Spectre.css  
