@@ -11,29 +11,105 @@
 ## 🚀 About Me
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
+### 🎯 What I Do
+
+<div align="center">
+  
   <table>
     <tr>
-      <td width="50%">
-        
-### 🇬🇧 English Version
-        
-🏗️ **Junior Software Architect** focused on industrialization, performance & security  
-♿ **Accessibility Expert**: Automated RGAA/WCAG audits, inclusive design systems  
-⚙️ **DevOps**: GitHub Actions, Docker, Kubernetes, IaC (Ansible, Terraform)  
-🤖 **Advanced AI**: RAG/CAG, vector databases, automated documentation & testing  
-🎮 **3D/Game Development**: Unreal Engine 5, C++ gameplay, automated pipelines  
-🌐 **Web/Mobile Development**: Symfony 7, Next.js 15, Flutter 3, Qt6, Tailwind
-        
-### 🇫🇷 Version Française
-        
-🏗️ **Architecte logiciel junior** orienté industrialisation, performance & sécurité  
-♿ **Expert Accessibilité** : audits RGAA/WCAG automatisés, design system inclusif  
-⚙️ **DevOps** : GitHub Actions, Docker, Kubernetes, IaC (Ansible, Terraform)  
-🤖 **IA avancée** : RAG/CAG, vector DB, génération de doc & tests automatisés  
-🎮 **Développement 3D/Jeux** : Unreal Engine 5, C++ gameplay, pipelines automatisés  
-🌐 **Développement Web/Mobile** : Symfony 7, Next.js 15, Flutter 3, Qt6, Tailwind
-
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+        <br><strong>🏗️ Software Architecture</strong>
+        <br><sub>Domain-driven design, SOLID principles, Performance optimization</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+        <br><strong>♿ Accessibility Expert</strong>
+        <br><sub>RGAA/WCAG audits, Inclusive design systems</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+        <br><strong>⚙️ DevOps & CI/CD</strong>
+        <br><sub>GitHub Actions, Docker, Kubernetes, IaC</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+        <br><strong>🤖 AI Integration</strong>
+        <br><sub>RAG/CAG, Vector databases, Automated workflows</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+        <br><strong>🎮 Game Development</strong>
+        <br><sub>Unreal Engine 5, C++ gameplay, Automated pipelines</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
+        <br><strong>🌐 Full-Stack Development</strong>
+        <br><sub>Symfony 7, Next.js 15, Flutter 3, Qt6</sub>
+      </td>
+    </tr>
   </table>
+
+</div>
+
+---
+
+## 🔄 DevOps & Automation Pipeline
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257481-9e5914c4-4c5c-4b7a-9f94-9c5b4d0e5e7e.gif" width="600">
+</div>
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A[💻 Code Commit] --> B[🔍 GitHub Actions]
+    B --> C[🧪 Automated Testing]
+    C --> D[🐳 Docker Build]
+    D --> E[📦 Container Registry]
+    E --> F[🚀 Staging Deploy]
+    F --> G[♿ RGAA Audit]
+    G --> H[🔐 Security Scan]
+    H --> I[📋 SBOM Generation]
+    I --> J[🌐 Production Deploy]
+    J --> K[📊 Monitoring]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style C fill:#e8f5e8
+    style D fill:#fff3e0
+    style E fill:#fce4ec
+    style F fill:#e0f2f1
+    style G fill:#f1f8e9
+    style H fill:#ffebee
+    style I fill:#e8eaf6
+    style J fill:#e3f2fd
+    style K fill:#f9fbe7
+```
+
+</div>
+
+### 🌍 Languages
+
+<div align="center">
+
+| 🇬🇧 **English** | 🇫🇷 **Français** |
+|:---:|:---:|
+| Junior Software Architect focused on industrialization, performance & security | Architecte logiciel junior orienté industrialisation, performance & sécurité |
+| Accessibility Expert with automated RGAA/WCAG audits | Expert Accessibilité avec audits RGAA/WCAG automatisés |
+| DevOps enthusiast specializing in GitHub Actions, Docker, Kubernetes | Passionné DevOps spécialisé GitHub Actions, Docker, Kubernetes |
+| Advanced AI integration with RAG/CAG and vector databases | Intégration IA avancée avec RAG/CAG et bases de données vectorielles |
+| 3D/Game Development with Unreal Engine 5 and C++ | Développement 3D/Jeux avec Unreal Engine 5 et C++ |
+| Full-stack development across web and mobile platforms | Développement full-stack sur plateformes web et mobile |
+
 </div>
 
 ---
@@ -88,6 +164,8 @@ Ansible & Terraform    ██████████████████   
 ### 🎮 ZombieSeasons
 [![ZombieSeasons](https://img.shields.io/badge/🎮_Game_Development-Unreal_Engine_5-0078D4?style=for-the-badge&logo=unrealengine&logoColor=white)](https://github.com/Owarino/ZombieSeasons)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=ZombieSeasons&theme=tokyonight&hide_border=true&border_radius=10" />
+
 **🇬🇧** Co-op FPS vs waves of zombies with procedural seasons  
 **🇫🇷** FPS coopératif contre des vagues de zombies, saisons procédurales
 
@@ -97,6 +175,8 @@ Ansible & Terraform    ██████████████████   
 
 ### 🎫 TicketApi
 [![TicketApi](https://img.shields.io/badge/🎫_API_Platform-Symfony_7-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/Owarino/TicketApi)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=TicketApi&theme=tokyonight&hide_border=true&border_radius=10" />
 
 **🇬🇧** Secure micro-service for ticketing with full test coverage  
 **🇫🇷** Micro-service sécurisé de billetterie avec couverture de tests complète
@@ -108,6 +188,8 @@ Ansible & Terraform    ██████████████████   
 ### 🌐 PortFolio2
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Astro_Framework-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/Owarino/PortFolio2)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=PortFolio2&theme=tokyonight&hide_border=true&border_radius=10" />
+
 **🇬🇧** Modern portfolio website built with Astro framework  
 **🇫🇷** Site portfolio moderne construit avec le framework Astro
 
@@ -117,6 +199,8 @@ Ansible & Terraform    ██████████████████   
 
 ### 📱 flutter-ai-universe
 [![Flutter AI](https://img.shields.io/badge/📱_Mobile_AI-Flutter_3-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Owarino/flutter-ai-universe)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=flutter-ai-universe&theme=tokyonight&hide_border=true&border_radius=10" />
 
 **🇬🇧** Mobile showcase of AI models with on-device chat  
 **🇫🇷** Vitrine mobile de modèles IA avec chat intégré
@@ -128,6 +212,8 @@ Ansible & Terraform    ██████████████████   
 ### 🛒 ECommerceAI
 [![ECommerce AI](https://img.shields.io/badge/🛒_E_Commerce-Next.js_AI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Owarino/ECommerceAI)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=ECommerceAI&theme=tokyonight&hide_border=true&border_radius=10" />
+
 **🇬🇧** Headless shop POC with RAG-powered recommendations  
 **🇫🇷** POC boutique headless avec recommandations RAG
 
@@ -137,6 +223,8 @@ Ansible & Terraform    ██████████████████   
 
 ### ✅ checklist
 [![Checklist](https://img.shields.io/badge/✅_QA_Tool-RGAA_Compliant-4169E1?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/Owarino/checklist)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=checklist&theme=tokyonight&hide_border=true&border_radius=10" />
 
 **🇬🇧** Project QA checklist app with automated accessibility reports  
 **🇫🇷** App checklist QA projet avec rapports accessibilité automatisés
@@ -163,6 +251,38 @@ Ansible & Terraform    ██████████████████   
 </div>
 
 ---
+
+## 🔄 DevOps & Automation Pipeline
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A[💻 Code Commit] --> B[🔍 GitHub Actions]
+    B --> C[🧪 Automated Testing]
+    C --> D[🐳 Docker Build]
+    D --> E[📦 Container Registry]
+    E --> F[🚀 Staging Deploy]
+    F --> G[♿ RGAA Audit]
+    G --> H[🔐 Security Scan]
+    H --> I[📋 SBOM Generation]
+    I --> J[🌐 Production Deploy]
+    J --> K[📊 Monitoring]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style C fill:#e8f5e8
+    style D fill:#fff3e0
+    style E fill:#fce4ec
+    style F fill:#e0f2f1
+    style G fill:#f1f8e9
+    style H fill:#ffebee
+    style I fill:#e8eaf6
+    style J fill:#e3f2fd
+    style K fill:#f9fbe7
+```
+
+</div>
 
 ### 🛡️ Quality Gates
 - ✅ **100% Automated Testing**: Unit, Integration, E2E
@@ -193,10 +313,24 @@ Ansible & Terraform    ██████████████████   
 
 ---
 
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/owarino)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Owarino)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://owarino.dev)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@owarino.dev)
+
+</div>
+
+---
+
 ## 💡 Fun Facts
 
 <div align="center">
-   
+  
+  🌍 **Based in**: Rennes, Brittany, France  
   🎯 **Current Focus**: AI-powered development tools  
   ☕ **Fuel**: Coffee + Clean Code  
   🎮 **Gaming**: Unreal Engine 5 enthusiast  
