@@ -83,13 +83,5 @@ flowchart LR
 
 ---
 
-## 🤝 Let's Connect / Connectons-nous
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/owarino)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://owarino.dev)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-000?logo=hashnode&logoColor=white&style=for-the-badge)](https://blog.owarino.dev)
-
----
-
 <sub>🇬🇧 Auto-generated README: daily updates via GitHub Actions (metrics-powered-README, Platane/snk).</sub>  
 <sub>🇫🇷 README auto-généré : mise-à-jour quotidienne via GitHub Actions (metrics-powered-README, Platane/snk).</sub>
