@@ -88,8 +88,6 @@ Ansible & Terraform    ██████████████████   
 ### 🎮 ZombieSeasons
 [![ZombieSeasons](https://img.shields.io/badge/🎮_Game_Development-Unreal_Engine_5-0078D4?style=for-the-badge&logo=unrealengine&logoColor=white)](https://github.com/Owarino/ZombieSeasons)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=ZombieSeasons&theme=tokyonight&hide_border=true&border_radius=10" />
-
 **🇬🇧** Co-op FPS vs waves of zombies with procedural seasons  
 **🇫🇷** FPS coopératif contre des vagues de zombies, saisons procédurales
 
@@ -99,8 +97,6 @@ Ansible & Terraform    ██████████████████   
 
 ### 🎫 TicketApi
 [![TicketApi](https://img.shields.io/badge/🎫_API_Platform-Symfony_7-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/Owarino/TicketApi)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=TicketApi&theme=tokyonight&hide_border=true&border_radius=10" />
 
 **🇬🇧** Secure micro-service for ticketing with full test coverage  
 **🇫🇷** Micro-service sécurisé de billetterie avec couverture de tests complète
@@ -112,8 +108,6 @@ Ansible & Terraform    ██████████████████   
 ### 🌐 PortFolio2
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Astro_Framework-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/Owarino/PortFolio2)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=PortFolio2&theme=tokyonight&hide_border=true&border_radius=10" />
-
 **🇬🇧** Modern portfolio website built with Astro framework  
 **🇫🇷** Site portfolio moderne construit avec le framework Astro
 
@@ -123,8 +117,6 @@ Ansible & Terraform    ██████████████████   
 
 ### 📱 flutter-ai-universe
 [![Flutter AI](https://img.shields.io/badge/📱_Mobile_AI-Flutter_3-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Owarino/flutter-ai-universe)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=flutter-ai-universe&theme=tokyonight&hide_border=true&border_radius=10" />
 
 **🇬🇧** Mobile showcase of AI models with on-device chat  
 **🇫🇷** Vitrine mobile de modèles IA avec chat intégré
@@ -136,8 +128,6 @@ Ansible & Terraform    ██████████████████   
 ### 🛒 ECommerceAI
 [![ECommerce AI](https://img.shields.io/badge/🛒_E_Commerce-Next.js_AI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Owarino/ECommerceAI)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=ECommerceAI&theme=tokyonight&hide_border=true&border_radius=10" />
-
 **🇬🇧** Headless shop POC with RAG-powered recommendations  
 **🇫🇷** POC boutique headless avec recommandations RAG
 
@@ -147,8 +137,6 @@ Ansible & Terraform    ██████████████████   
 
 ### ✅ checklist
 [![Checklist](https://img.shields.io/badge/✅_QA_Tool-RGAA_Compliant-4169E1?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/Owarino/checklist)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Owarino&repo=checklist&theme=tokyonight&hide_border=true&border_radius=10" />
 
 **🇬🇧** Project QA checklist app with automated accessibility reports  
 **🇫🇷** App checklist QA projet avec rapports accessibilité automatisés
@@ -175,38 +163,6 @@ Ansible & Terraform    ██████████████████   
 </div>
 
 ---
-
-## 🔄 DevOps & Automation Pipeline
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A[💻 Code Commit] --> B[🔍 GitHub Actions]
-    B --> C[🧪 Automated Testing]
-    C --> D[🐳 Docker Build]
-    D --> E[📦 Container Registry]
-    E --> F[🚀 Staging Deploy]
-    F --> G[♿ RGAA Audit]
-    G --> H[🔐 Security Scan]
-    H --> I[📋 SBOM Generation]
-    I --> J[🌐 Production Deploy]
-    J --> K[📊 Monitoring]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-    style F fill:#e0f2f1
-    style G fill:#f1f8e9
-    style H fill:#ffebee
-    style I fill:#e8eaf6
-    style J fill:#e3f2fd
-    style K fill:#f9fbe7
-```
-
-</div>
 
 ### 🛡️ Quality Gates
 - ✅ **100% Automated Testing**: Unit, Integration, E2E
