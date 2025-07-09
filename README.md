@@ -73,12 +73,30 @@
 
 ---
 
+### 🌐 PortFolio2
+[![Portfolio](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/Owarino/PortFolio2)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+*🇬🇧 Modern portfolio website built with Astro framework*  
+*🇫🇷 Site portfolio moderne construit avec le framework Astro*
+
+---
+
 ### 📱 flutter-ai-universe
 [![Flutter AI](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Owarino/flutter-ai-universe)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 *🇬🇧 Mobile showcase of AI models with on-device chat*  
 *🇫🇷 Vitrine mobile de modèles IA avec chat intégré*
+
+---
+
+### ⚡ projet-React-JS-speedWriting
+[![React Speed](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Owarino/projet-React-JS-speedWriting)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*🇬🇧 Speed typing game built with React.js*  
+*🇫🇷 Jeu de frappe rapide développé avec React.js*
 
 ---
 
@@ -88,6 +106,15 @@
 
 *🇬🇧 Headless shop POC with RAG-powered recommendations*  
 *🇫🇷 POC boutique headless avec recommandations RAG*
+
+---
+
+### ✅ todolist
+[![Todo List](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Owarino/todolist)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-323330?style=for-the-badge)
+
+*🇬🇧 Clean and efficient todo list application*  
+*🇫🇷 Application de liste de tâches propre et efficace*
 
 ---
 
