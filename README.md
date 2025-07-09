@@ -23,9 +23,6 @@
 🤖 **Advanced AI**: RAG/CAG, vector databases, automated documentation & testing  
 🎮 **3D/Game Development**: Unreal Engine 5, C++ gameplay, automated pipelines  
 🌐 **Web/Mobile Development**: Symfony 7, Next.js 15, Flutter 3, Qt6, Tailwind
-
-      </td>
-      <td width="50%">
         
 ### 🇫🇷 Version Française
         
@@ -36,8 +33,6 @@
 🎮 **Développement 3D/Jeux** : Unreal Engine 5, C++ gameplay, pipelines automatisés  
 🌐 **Développement Web/Mobile** : Symfony 7, Next.js 15, Flutter 3, Qt6, Tailwind
 
-      </td>
-    </tr>
   </table>
 </div>
 
