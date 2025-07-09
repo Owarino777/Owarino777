@@ -18,46 +18,42 @@
 
 ### 🎯 What I Do
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-        <br><strong>🏗️ Software Architecture</strong>
-        <br><sub>Domain-driven design, SOLID principles, Performance optimization</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-        <br><strong>♿ Accessibility Expert</strong>
-        <br><sub>RGAA/WCAG audits, Inclusive design systems</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-        <br><strong>⚙️ DevOps & CI/CD</strong>
-        <br><sub>GitHub Actions, Docker, Kubernetes, IaC</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-        <br><strong>🤖 AI Integration</strong>
-        <br><sub>RAG/CAG, Vector databases, Automated workflows</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-        <br><strong>🎮 Game Development</strong>
-        <br><sub>Unreal Engine 5, C++ gameplay, Automated pipelines</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
-        <br><strong>🌐 Full-Stack Development</strong>
-        <br><sub>Symfony 7, Next.js 15, Flutter 3, Qt6</sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
+      <br/><b>🏗️ Software Architecture</b>
+      <br/><sub>Domain-driven design, SOLID, Perf</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+      <br/><b>♿ Accessibility Expert</b>
+      <br/><sub>RGAA/WCAG, Inclusive Design</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
+      <br/><b>⚙️ DevOps & CI/CD</b>
+      <br/><sub>GitHub Actions, Docker, IaC</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="AI Integration"/>
+      <br/><b>🤖 AI Integration</b>
+      <br/><sub>RAG/CAG, Vector DB, Automation</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="60" alt="Unreal Engine"/>
+      <br/><b>🎮 Game Development</b>
+      <br/><sub>Unreal Engine 5, C++ gameplay</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
+      <br/><b>🌐 Full-Stack Dev</b>
+      <br/><sub>Symfony 7, Next.js 15, Qt6</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
