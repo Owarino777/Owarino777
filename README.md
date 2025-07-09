@@ -196,8 +196,7 @@ Ansible & Terraform    ██████████████████   
 ## 💡 Fun Facts
 
 <div align="center">
-  
-  🌍 **Based in**: Rennes, Brittany, France  
+   
   🎯 **Current Focus**: AI-powered development tools  
   ☕ **Fuel**: Coffee + Clean Code  
   🎮 **Gaming**: Unreal Engine 5 enthusiast  
