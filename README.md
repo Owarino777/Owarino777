@@ -67,16 +67,6 @@
 
 ---
 
-## 📊 Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owarino&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Owarino&theme=radical&hide_border=true" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owarino&layout=compact&theme=radical&hide_border=true" alt="langs"/>
-</p>
-
----
-
 ## 🛠️ Automation & CI/CD / Automatisation & CI/CD
 
 ```mermaid
