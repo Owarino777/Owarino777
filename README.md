@@ -53,14 +53,61 @@
 
 ## 🚀 Featured Projects / Projets Phares
 
-| 🗂️ Project | Tech | 🇬🇧 Description | 🇫🇷 Description |
-|-----------|------|-----------------|------------------|
-| **ZombieSeasons** | Unreal Engine 5, C++ | Co-op FPS vs waves of zombies, procedural seasons | FPS coopératif contre des vagues de zombies, saisons procédurales |
-| **TicketApi** | Symfony 7, API Platform, CI | Secure micro-service for ticketing with full test coverage | Micro-service sécurisé de billetterie avec couverture de tests complète |
-| **flutter-ai-universe** | Flutter 3, OpenAI | Mobile showcase of AI models with on-device chat | Vitrine mobile de modèles IA avec chat intégré |
-| **ECommerceAI** | Next.js 15, LangChain | Headless shop POC with RAG-powered recommendations | POC boutique headless avec recommandations RAG |
-| **CodingInC** | C 17 | 42-topic curriculum + 11 projects, docs & tests | Curriculum 42 sujets + 11 projets, docs & tests |
-| **checklist** | Symfony 7, Twig, RGAA  | Project QA checklist app with automated a11y reports | App checklist QA projet avec rapports accessibilité automatisés |
+<div align="center">
+
+### � ZombieSeasons
+[![ZombieSeasons](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://github.com/Owarino/ZombieSeasons)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+*🇬🇧 Co-op FPS vs waves of zombies with procedural seasons*  
+*🇫🇷 FPS coopératif contre des vagues de zombies, saisons procédurales*
+
+---
+
+### 🎫 TicketApi
+[![TicketApi](https://img.shields.io/badge/Symfony-7-black?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/Owarino/TicketApi)
+![API Platform](https://img.shields.io/badge/API_Platform-2ea44f?style=for-the-badge)
+
+*🇬🇧 Secure micro-service for ticketing with full test coverage*  
+*🇫🇷 Micro-service sécurisé de billetterie avec couverture de tests complète*
+
+---
+
+### 📱 flutter-ai-universe
+[![Flutter AI](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Owarino/flutter-ai-universe)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+*🇬🇧 Mobile showcase of AI models with on-device chat*  
+*🇫🇷 Vitrine mobile de modèles IA avec chat intégré*
+
+---
+
+### 🛒 ECommerceAI
+[![ECommerce AI](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Owarino/ECommerceAI)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+*🇬🇧 Headless shop POC with RAG-powered recommendations*  
+*🇫🇷 POC boutique headless avec recommandations RAG*
+
+---
+
+### 💻 CodingInC
+[![Coding in C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/Owarino/CodingInC)
+![Educational](https://img.shields.io/badge/Educational-FF6B6B?style=for-the-badge)
+
+*🇬🇧 42-topic curriculum + 11 projects with comprehensive documentation*  
+*🇫🇷 Curriculum 42 sujets + 11 projets avec documentation complète*
+
+---
+
+### ✅ checklist
+[![Checklist](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/Owarino/checklist)
+![RGAA](https://img.shields.io/badge/RGAA-4169E1?style=for-the-badge)
+
+*🇬🇧 Project QA checklist app with automated accessibility reports*  
+*🇫🇷 App checklist QA projet avec rapports accessibilité automatisés*
+
+</div>
 
 *🇬🇧 See all **23 repositories** → <https://github.com/Owarino?tab=repositories>*  
 *🇫🇷 Voir l'ensemble des **23 dépôts** → <https://github.com/Owarino?tab=repositories>*
