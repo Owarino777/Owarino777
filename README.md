@@ -18,42 +18,45 @@
 
 ### 🎯 What I Do
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
-      <br/><b>🏗️ Software Architecture</b>
-      <br/><sub>Domain-driven design, SOLID, Perf</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
-      <br/><b>♿ Accessibility Expert</b>
-      <br/><sub>RGAA/WCAG, Inclusive Design</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
-      <br/><b>⚙️ DevOps & CI/CD</b>
-      <br/><sub>GitHub Actions, Docker, IaC</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="AI Integration"/>
-      <br/><b>🤖 AI Integration</b>
-      <br/><sub>RAG/CAG, Vector DB, Automation</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="60" alt="Unreal Engine"/>
-      <br/><b>🎮 Game Development</b>
-      <br/><sub>Unreal Engine 5, C++ gameplay</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
-      <br/><b>🌐 Full-Stack Dev</b>
-      <br/><sub>Symfony 7, Next.js 15, Qt6</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
+        <br/><b>🏗️ Software Architecture</b>
+        <br/><sub>Domain-driven design, SOLID, Perf</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+        <br/><b>♿ Accessibility Expert</b>
+        <br/><sub>RGAA/WCAG, Inclusive Design</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
+        <br/><b>⚙️ DevOps & CI/CD</b>
+        <br/><sub>GitHub Actions, Docker, IaC</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="AI Integration"/>
+        <br/><b>🤖 AI Integration</b>
+        <br/><sub>RAG/CAG, Vector DB, Automation</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="60" alt="Unreal Engine"/>
+        <br/><b>🎮 Game Development</b>
+        <br/><sub>Unreal Engine 5, C++ gameplay</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
+        <br/><b>🌐 Full-Stack Dev</b>
+        <br/><sub>Symfony 7, Next.js 15, Qt6</sub>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 
