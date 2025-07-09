@@ -59,8 +59,13 @@
 [![ZombieSeasons](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://github.com/Owarino/ZombieSeasons)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+<div align="center">
+<img src="https://media.giphy.com/media/3o6Mb7tHQ7rKm3tKJG/giphy.gif" width="200" alt="Zombie Dance"/>
+</div>
+
 *🇬🇧 Co-op FPS vs waves of zombies with procedural seasons*  
-*🇫🇷 FPS coopératif contre des vagues de zombies, saisons procédurales*
+*🇫🇷 FPS coopératif contre des vagues de zombies, saisons procédurales*  
+*🧟‍♂️ Warning: Zombies may dance instead of attacking during development...*==== -->
 
 ---
 
