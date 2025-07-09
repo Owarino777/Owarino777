@@ -61,42 +61,6 @@
 
 ---
 
-## 🔄 DevOps & Automation Pipeline
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257481-9e5914c4-4c5c-4b7a-9f94-9c5b4d0e5e7e.gif" width="600">
-</div>
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A[💻 Code Commit] --> B[🔍 GitHub Actions]
-    B --> C[🧪 Automated Testing]
-    C --> D[🐳 Docker Build]
-    D --> E[📦 Container Registry]
-    E --> F[🚀 Staging Deploy]
-    F --> G[♿ RGAA Audit]
-    G --> H[🔐 Security Scan]
-    H --> I[📋 SBOM Generation]
-    I --> J[🌐 Production Deploy]
-    J --> K[📊 Monitoring]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-    style F fill:#e0f2f1
-    style G fill:#f1f8e9
-    style H fill:#ffebee
-    style I fill:#e8eaf6
-    style J fill:#e3f2fd
-    style K fill:#f9fbe7
-```
-
-</div>
-
 ### 🌍 Languages
 
 <div align="center">
